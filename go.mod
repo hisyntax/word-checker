@@ -1,3 +1,3 @@
-module github.com/hisyntax/word-validator
+module github.com/iqquee/word-validator
 
-go 1.18
+go 1.19

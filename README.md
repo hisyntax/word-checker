@@ -9,7 +9,7 @@ NOTE: Both methods return a bool value. True (true) would be returned if there i
 
 ## Installation
 ```ssh
-go get github.com/hisyntax/word-validator
+go get github.com/iqquee/word-validator
 ```
 ## DefaultValidator
 #### This checks if a string of words contains an inappropriate word or not using a predefined array of words to check
@@ -20,7 +20,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hisyntax/word-validator/validate"
+	"github.com/iqquee/word-validator/validate"
 )
 
 func main() {
@@ -43,7 +43,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hisyntax/word-validator/validate"
+	"github.com/iqquee/word-validator/validate"
 )
 
 func main() {
